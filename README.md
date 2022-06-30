@@ -1,2 +1,2 @@
 # SQL-Assignments
-SQL Assignments given by intellipaat on which i had worked and practise.
+SQL Assignments given by intellipaat on which I had worked and practise.
